@@ -19,7 +19,8 @@ Currently, I am working at **Aplomb Technology, Rajkot**, focusing on **.NET Cor
 - Time Manager 🕒
 
 ## 📫 How to Reach Me
-- LinkedIn: https://www.linkedin.com/in/yupin-bhensdadiya-47909b223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/yupin-bhensdadiya-47909b223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/yupinbhensdadi1?s=11)
 
 ---
 
